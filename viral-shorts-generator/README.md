@@ -1,4 +1,4 @@
-# AI Viral Shorts Generator 🎬
+# AI Viral Shorts Generator By Codingdidi
 
 Automatically transform **long-form videos (20 minutes to 2+ hours)** into **high-quality YouTube Shorts, Instagram Reels, and TikTok clips** using **Python**, **Google Gemini**, and **Whisper**.
 
