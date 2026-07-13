@@ -127,7 +127,7 @@ viral-shorts-generator/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/viral-shorts-generator.git
+git clone https://github.com/Akansha-yadav24/viral-shorts-generator.git
 
 cd viral-shorts-generator
 ```
