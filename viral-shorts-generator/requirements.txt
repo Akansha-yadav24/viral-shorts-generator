@@ -1,0 +1,19 @@
+# Core AI
+google-generativeai>=0.8.0
+
+# Video / audio processing
+ffmpeg-python>=0.2.0
+moviepy>=1.0.3
+
+# Transcription (primary engine)
+faster-whisper>=1.0.0
+
+# Transcription (optional fallback engine)
+# openai-whisper>=20231117
+
+# CLI / utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# Note: FFmpeg itself is a system binary and is NOT installed via pip.
+# See README.md for installation instructions per platform.
