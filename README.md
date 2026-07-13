@@ -108,14 +108,6 @@ viral-shorts-generator/
 ├── LICENSE
 ├── .env.example
 │
-├── output/
-│   └── video_name/
-│       ├── clips/
-│       ├── temp/
-│       └── clips.json
-│
-└── logs/
-    └── pipeline.log
 ```
 
 ---
